@@ -32,3 +32,6 @@
 *.app
 
 *.code-workspace
+
+*.json
+GUI/email.json
