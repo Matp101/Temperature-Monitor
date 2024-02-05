@@ -1,4 +1,4 @@
-# Arduino Multiplexer Thermistor Reader with GUI and Alerts
+# Temperature Monitor
 
 This project utilizes an Arduino connected to a multiplexer to read temperatures from up to 16 thermistors. It features a GUI for real-time temperature monitoring, email alerts for temperatures exceeding predefined limits, webhook support for hourly updates (ideal for Discord notifications), and CSV logging for all captured data.
 
